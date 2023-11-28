@@ -1,4 +1,4 @@
-# Example Storybook Project
+# Example Storybook Project for video demonstration
 
 To run the project. 
 
